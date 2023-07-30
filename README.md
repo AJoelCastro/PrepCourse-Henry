@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Primer Repositorio
+Prueba de como crear un repositorio de git hub y como clonarlo a mi escritorio local
